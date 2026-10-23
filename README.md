@@ -3,11 +3,10 @@
 **Trabajo Práctico Integrador – Organización Empresarial**
 Tecnicatura Universitaria en Programación a Distancia (TUPaD) – Universidad Tecnológica Nacional
 
-|---|---|
-| **Alumno** | Matías Salazar |
-| **Docente Titular** | Prof. Mario Raúl López |
-| **Docente Tutor** | Franco Corts-Romeo |
-| **Tablero de gestión** | [GitHub Projects – Óptica Central](PEGAR_ACA_EL_LINK_DEL_TABLERO) |
+- **Alumno:** Matías Salazar
+- **Docente Titular:** Prof. Mario Raúl López
+- **Docente Tutor:** Franco Corts-Romeo
+- **Tablero de gestión:** [GitHub Projects – Óptica Central](https://github.com/users/Matoma1607/projects/1/views/1)
 
 ## Descripción del proyecto
 
