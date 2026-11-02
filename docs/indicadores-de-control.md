@@ -5,7 +5,7 @@ Estos indicadores sirven para saber si el módulo de sincronización funciona bi
 | Indicador | Qué controla | Valor esperado | Responsable |
 |---|---|---|---|
 | Tiempo de sincronización | Que el stock se actualice rápido entre Moebius y Tiendanube | Menos de 1 minuto | Área de Sistemas |
-| Sincronizaciones con error | Que el sistema no falle seguido | Casi ninguna | Área de Sistemas |
+| Sincronizaciones con error | Que el sistema no falle seguido | Menos del 2 % | Área de Sistemas |
 | Ventas online sin stock | Que no se venda online algo que no está en el depósito | Ninguna en los primeros 90 días | Área de Marketing |
 | Armazones sincronizados | Que estén cargados todos los armazones más vendidos | El 100 % en la primera etapa | Área de Sistemas |
 | Armazones no encontrados | Que la ubicación cargada en el depósito sea la correcta | Menos de 1 por mes | Sector de Armazones |
